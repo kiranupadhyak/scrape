@@ -1,4 +1,4 @@
-module github.com/lawzava/scrape
+module github.com/kiranupadhyak/scrape
 
 go 1.13
 

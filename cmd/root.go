@@ -21,7 +21,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/lawzava/scrape/scraper"
+	"github.com/kiranupadhyak/scrape/scraper"
 
 	"github.com/spf13/cobra"
 )

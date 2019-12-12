@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/lawzava/scrape/tld"
+	"github.com/kiranupadhyak/scrape/tld"
 )
 
 // Initialize once
